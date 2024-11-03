@@ -7,10 +7,6 @@ module.exports = {
         'Popins': ["Poppins", 'sans-serif'],
     },
     extend: {
-      backgroundImage: {
-        'hero-pattern': "url('/img/Decore.png')",
-        'footer-texture': "url('/img/footer-texture.png')",
-      }
     },
   },
   plugins: [],
