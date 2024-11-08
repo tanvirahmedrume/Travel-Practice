@@ -1207,6 +1207,10 @@ video {
     margin-left: 2px;
   }
 
+  .sm\:mt-10{
+    margin-top: 2.5rem;
+  }
+
   .sm\:flex{
     display: flex;
   }
